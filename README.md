@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 안녕하세요, 극한의 효율을 추구하는 개발자 임은섭 입니다.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
