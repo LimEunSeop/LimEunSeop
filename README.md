@@ -1,6 +1,6 @@
 ### 👋 안녕하세요, 극한의 효율을 추구하는 ISTP 개발자 임은섭 입니다.
 
-<a href="https://github.com/LimEunSeop/my-resume">![resume](https://img.shields.io/badge/resume--CA0126.svg)</a>
+<a href="https://github.com/LimEunSeop/my-resume">![resume](https://img.shields.io/badge/-resume-CA0126.svg)</a>
 <a href="https://limeunseop.github.io">![Portfolio](https://img.shields.io/badge/Portfolio-limeunseop.github.io-03B054.svg)</a>
 <a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/email-dmstjq92@gmail.com-ea4335.svg)</a>
 <a href="https://medium.com/@dmstjq92">![Blog](https://img.shields.io/badge/blog-medium.com/@dmstjq92-303030.svg)</a>
