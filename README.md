@@ -1,13 +1,7 @@
-### 👋 안녕하세요, 극한의 효율을 추구하는 ISTP 개발자 임은섭 입니다.
-
 <a href="https://github.com/LimEunSeop/my-resume">![resume](https://img.shields.io/badge/-resume-CA0126.svg)</a>
 <a href="https://limeunseop.github.io">![Portfolio](https://img.shields.io/badge/-Portfolio-03B054.svg)</a>
 <a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/-email-ea4335.svg)</a>
 <a href="https://medium.com/@dmstjq92">![Blog](https://img.shields.io/badge/-blog-303030.svg)</a>
-
-- 웹 기술의 전반적인 기초지식을 고루 갖췄으며, IT에 존재하는 다양한 프로토콜을 이해하는것이 재밌습니다.
-- 웹 표준, 시멘틱 마크업, 접근성에 대한 지식이 있으며, 크로스 브라우징, 반응형 웹 개발이 가능합니다.
-- 🔨 툴 테크닉을 좋아합니다.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
