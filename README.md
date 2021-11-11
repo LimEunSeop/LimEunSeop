@@ -1,4 +1,4 @@
-<a href="https://limeunseop.github.io">![intro_site](https://img.shields.io/badge/-intro_site-03B054.svg)</a>
+<!-- <a href="https://limeunseop.github.io">![intro_site](https://img.shields.io/badge/-intro_site-03B054.svg)</a> -->
 <a href="https://github.com/LimEunSeop/my-resume">![resume](https://img.shields.io/badge/-resume-CA0126.svg)</a>
 <a href="https://github.com/LimEunSeop/my-portfolio">![portfolio](https://img.shields.io/badge/-portfolio-2A7857.svg)</a>
 <a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/-email-ea4335.svg)</a>
