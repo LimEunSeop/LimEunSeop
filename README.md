@@ -4,7 +4,7 @@
 <a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/-email-ea4335.svg)</a>
 <a href="https://medium.com/@dmstjq92">![Blog](https://img.shields.io/badge/-blog-303030.svg)</a>
 
-## 안녕하세요, 프론트엔드 개발자 임은섭입니다.
+## 안녕하세요, 풀스택을 지향하는 개발자 임은섭입니다.
 - 웹 기술의 전반적인 기초지식을 고루 갖췄으며, IT세계에서 프로토콜 서비스가 동작하는 원리를 전체적인 큰 그림에서 이해할 수 있습니다.
 - 웹 표준, 시멘틱 마크업, 접근성을 준수한 개발, 크로스 브라우징, 반응형 웹 개발이 가능합니다.
 - 툴 테크닉을 좋아하여, 생산성 있는 코딩이 가능합니다.
