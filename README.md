@@ -3,7 +3,7 @@
 <a href="https://github.com/LimEunSeop/my-portfolio">![portfolio](https://img.shields.io/badge/-portfolio-2A7857.svg)</a>
 <a href="https://velog.io/@seop">![Blog](https://img.shields.io/badge/blog-303030.svg)</a>
 
-## 안녕하세요, 프론트엔드 개발자 임은섭입니다. 저는..
+## 안녕하세요, 프론트엔드 개발자 임은섭입니다. 저는,
 - React 유저입니다.
 - 모든 기술을 항상 정확히 공부하고자 노력하고 있습니다.
 - HTML, CSS에 대한 기본지식을 확실히 갖췄으며, 스스로 퍼블리싱할 수 있습니다.
