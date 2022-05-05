@@ -1,7 +1,7 @@
 <!-- <a href="https://limeunseop.github.io">![intro_site](https://img.shields.io/badge/-intro_site-03B054.svg)</a> -->
 <a href="https://github.com/LimEunSeop/my-resume">![resume](https://img.shields.io/badge/-resume-CA0126.svg)</a>
 <a href="https://github.com/LimEunSeop/my-portfolio">![portfolio](https://img.shields.io/badge/-portfolio-2A7857.svg)</a>
-<a href="https://medium.com/@dmstjq92">![Blog](https://img.shields.io/badge/-blog-303030.svg)</a>
+<a href="https://velog.io/@seop">![Blog](https://img.shields.io/badge/blog-303030.svg)</a>
 
 ## 안녕하세요, 프론트엔드 개발자 임은섭입니다. 저는..
 - React 유저입니다.
