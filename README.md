@@ -12,6 +12,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limeunseop&layout=compact&count_private=true&hide=css,html,vim script" />
   </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=limeunseop"/>
 </p>
 
 <!--
