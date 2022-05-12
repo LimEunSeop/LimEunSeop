@@ -9,11 +9,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=limeunseop&count_private=true&show_icons=true" />
   </a>
-  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limeunseop&layout=compact&count_private=true&hide=css,html,vim script" />
   </a>
-  -->
 </p>
 
 <!--
