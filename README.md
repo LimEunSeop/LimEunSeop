@@ -7,8 +7,6 @@
 <a href="https://limeunseop.notion.site/limeunseop/b56b7e9c10ef4616a76693e33b0bd1ee">![Notion](https://img.shields.io/badge/-Notion-%23fff)</a>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=limeunseop"/>
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limeunseop&layout=compact&count_private=true&hide=css,html,vim script" />
 </p>
 
