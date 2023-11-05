@@ -1,26 +1,8 @@
 # 임은섭 (Front-end developer)
 
-<!-- <a href="https://limeunseop.github.io">![intro_site](https://img.shields.io/badge/-intro_site-03B054.svg)</a> -->
+HomePage: https://www.silverflame.dev/careers
+
 <a href="https://github.com/LimEunSeop/my-resume">![resume](https://img.shields.io/badge/-resume-CA0126.svg)</a>
 <a href="https://velog.io/@seop">![Blog](https://img.shields.io/badge/blog-303030.svg)</a>
 <a href="https://limeunseop.notion.site/limeunseop/b56b7e9c10ef4616a76693e33b0bd1ee">![Notion](https://img.shields.io/badge/-Notion-%23fff)</a>
 <a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/-Email-F6B638.svg)</a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limeunseop&layout=compact&count_private=true&hide=css,html,vim script" />
-</p>
-
-<!--
-**LimEunSeop/LimEunSeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
